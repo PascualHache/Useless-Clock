@@ -22,3 +22,7 @@ function runTheClock() {
 }
 
 var interval = setInterval(runTheClock, 1000);
+
+
+// Crear una funcion que coja un valor random de una lista de ciudades del mundo y luego haga una query a wikipedia
+// Math.random()
